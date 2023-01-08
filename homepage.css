@@ -1,10 +1,17 @@
 body{
-    background: rgb(14, 4, 73);
+    background-color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+    padding: 0;
 }
 button{
     border: 0ch;
     border-radius: 2px;
-    background: rgb(14, 4, 73);
-    padding: 10px 20px;
+    cursor: pointer;
+    background: transparent;
+    outline: none;
+    
     
 }
