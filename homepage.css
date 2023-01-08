@@ -36,16 +36,6 @@ a:hover{
     text-decoration:none;
     color: aqua;
 }
-
-#lg{
-    height: 20px;
-    width: 20px;
-    position: relative;
-    
-    color: white;
-    
-    background-repeat: no-repeat;
-}
 #lg1{
     height: 10px;
     width: 10px;
