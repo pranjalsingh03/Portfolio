@@ -57,7 +57,7 @@ a:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 #ffbb70;
 }
 #profile{
-    height: 390px;
+    height: 370px;
     position: fixed;
     left: 27%;
     top: 48%;
@@ -71,11 +71,19 @@ a:hover{
 }
 #name{
     position: fixed;
-    left: 170%;
-    top: 21%;
+    left: 183%;
+    top: -15%;
     transform: translate(-50%, -50%);
-    font-size: 115px;
+    font-size: 148px;
     color: white;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
+}
+#title{
+    position: fixed;
+    left: 159%;
+    top: 32%;
+    transform: translate(-50%, -50%);
+    font-size: 119px;
+    color: white;
 }
