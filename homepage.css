@@ -40,7 +40,7 @@ a:hover{
     height: 10px;
     width: 10px;
     text-align: right;
-    position: relative;
+    position: fixed;
     left: 90%;
     color: white;
 }
