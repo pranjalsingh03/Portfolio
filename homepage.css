@@ -1,3 +1,10 @@
 body{
     background: rgb(14, 4, 73);
 }
+button{
+    border: 0ch;
+    border-radius: 2px;
+    background: rgb(14, 4, 73);
+    padding: 10px 20px;
+    
+}
