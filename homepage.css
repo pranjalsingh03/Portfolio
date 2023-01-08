@@ -56,3 +56,32 @@ a:hover{
 #logo:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 #ffbb70;
 }
+#profile{
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--color);
+    display: flex;
+    gap: var(--sz-4);
+    align-items: center;
+    -webkit-box-align:center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+#profile2{
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    box-sizing: border-box;
+}
+#profile_me{
+    border-radius: 50%;
+    display: block;
+    height: var(--img-size);
+    width: var(--img-size);
+    overflow: hidden;
+    box-sizing: border-box;
+    text-align: center;
+}
