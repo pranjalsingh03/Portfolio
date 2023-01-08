@@ -51,4 +51,8 @@ a:hover{
     position: fixed;
     left: 20px;
     top: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 #9a86fd;
+}
+#logo:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 #ffbb70;
 }
