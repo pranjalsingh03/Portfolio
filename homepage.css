@@ -60,7 +60,7 @@ a:hover{
     height: 370px;
     position: fixed;
     left: 27%;
-    top: 48%;
+    top: 44%;
     transform: translate(-50%, -50%);
 }
 #profile2{
@@ -85,5 +85,13 @@ a:hover{
     top: 32%;
     transform: translate(-50%, -50%);
     font-size: 119px;
+    color: white;
+}
+#quo{
+    position: fixed;
+    left: 54%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
     color: white;
 }
