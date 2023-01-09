@@ -21,7 +21,8 @@ header{
     width: 100%;
     text-align: center;
     font-size: 30px;
-    top: 10px;
+    top: 0;
+    overflow: hidden;
 }
 a{
     color: rgb(254, 250, 250);
@@ -63,6 +64,7 @@ a:hover{
     left: 27%;
     top: 44%;
     transform: translate(-50%, -50%);
+    margin-top: 30px;
 }
 #profile2{
     height: 100%;
@@ -102,22 +104,6 @@ a:hover{
     display: flex;
 
 }
-/* #about{
-    position: fixed;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 22px;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    width: 100%;
-    height: 100%;
-    
-} */
 #about{
     font-size: 20px;
     color: white;
