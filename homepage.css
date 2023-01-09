@@ -5,6 +5,7 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    height: max-content;
 }
 button{
     border: 0ch;
@@ -58,7 +59,7 @@ a:hover{
 }
 #profile{
     height: 370px;
-    position: fixed;
+    position: absolute;
     left: 27%;
     top: 44%;
     transform: translate(-50%, -50%);
@@ -70,7 +71,7 @@ a:hover{
     border-radius: 50%;
 }
 #name{
-    position: fixed;
+    position: absolute;
     left: 183%;
     top: -15%;
     transform: translate(-50%, -50%);
@@ -80,7 +81,7 @@ a:hover{
     font-weight: bold;
 }
 #title{
-    position: fixed;
+    position: absolute;
     left: 159%;
     top: 32%;
     transform: translate(-50%, -50%);
@@ -88,10 +89,40 @@ a:hover{
     color: white;
 }
 #quo{
-    position: fixed;
+    position: absolute;
     left: 54%;
     top: 80%;
     transform: translate(-50%, -50%);
     font-size: 55px;
     color: white;
+}
+#abo{
+    font-size: 22px;
+    color: white;
+    display: flex;
+
+}
+/* #about{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    
+} */
+#about{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    padding-top: 50%;
+    padding-right: 50%;
+    padding-left: 20%;
 }
