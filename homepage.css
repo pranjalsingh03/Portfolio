@@ -126,5 +126,5 @@ hr{
     background-image: url(/images/profile.JPG);
     height: 250px;
     width: 250px;
-
+    align-content: center;
 }
