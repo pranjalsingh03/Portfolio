@@ -67,10 +67,10 @@ a:hover{
     margin-top: 30px;
 }
 #profile2{
-    height: 370px;
+    height: 347px;
     position: absolute;
-    left: 23%;
-    top: 22%;
+    left: 22%;
+    top: 20%;
     border-radius: 50%;
 }
 #name{
@@ -96,7 +96,7 @@ a:hover{
     left: 54%;
     top: 80%;
     transform: translate(-50%, -50%);
-    font-size: 55px;
+    font-size: 53px;
     color: white;
 }
 #abo{
