@@ -119,3 +119,12 @@ hr{
     position: fixed;
     top: 10%;
 }
+#box1{
+    position: absolute;
+    left: 65%;
+    top: 100%;
+    background-image: url(/images/profile.JPG);
+    height: 250px;
+    width: 250px;
+
+}
