@@ -116,7 +116,6 @@ hr{
     position: absolute;
     left: 65%;
     top: 100%;
-    background-image: url(/images/profile.JPG);
     height: 250px;
     width: 250px;
     align-content: center;
@@ -134,7 +133,10 @@ hr{
     }
     #about{
         position: absolute;
-        top: 100%;
+        top: 35%;
+        font-size: 15px;
+        left: -15%;
+
     }
     #title{
         font-size: 70px;
@@ -153,13 +155,14 @@ hr{
     }
     #box1{
         left: 45%;
-        top: 100%;
+        top: 40%;
+        height: 100px;
     }
     header{
         position: fixed;
     }
     a{
-        font-size: 10px;
+        font-size: 12px;
     }
     #logo{
         height: 35px;
@@ -172,5 +175,14 @@ hr{
         left: 17%;
         position: absolute;
     }
+    #aboutpic{
+        height: 150px;
+        width: 150px;
+        position: absolute;
+        left: 10%;
+        top: 175%;
+        
+    }
+
 }
 
