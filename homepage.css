@@ -58,14 +58,7 @@ a:hover{
 #logo:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 #ffbb70;
 }
-#profile{
-    height: 370px;
-    position: absolute;
-    left: 27%;
-    top: 44%;
-    transform: translate(-50%, -50%);
-    margin-top: 30px;
-}
+
 #profile2{
     height: 347px;
     position: absolute;
@@ -127,4 +120,15 @@ hr{
     height: 250px;
     width: 250px;
     align-content: center;
+}
+@media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    #profile2{
+        height: 47px;
+        left: 12%;
+        top: 20%;
+    }
+    #name{
+        font-size: 92px;
+    }
 }
