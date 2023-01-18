@@ -6,6 +6,7 @@ body{
     margin: 0;
     padding: 0;
     height: max-content;
+    width: max-content;
 }
 button{
     border: 0ch;
@@ -183,6 +184,5 @@ hr{
         top: 160%;
         border-radius: 20%;
     }
-
 }
 
