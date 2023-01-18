@@ -176,12 +176,12 @@ hr{
         position: absolute;
     }
     #aboutpic{
-        height: 150px;
-        width: 150px;
+        height: 180px;
+        width: 180px;
         position: absolute;
         left: 10%;
-        top: 175%;
-        
+        top: 160%;
+        border-radius: 20%;
     }
 
 }
