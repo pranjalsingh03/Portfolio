@@ -124,11 +124,36 @@ hr{
 @media only screen and (max-width:500px) {
     /* For mobile phones: */
     #profile2{
-        height: 47px;
-        left: 12%;
+        height: 117px;
+        left: 3%;
         top: 20%;
     }
     #name{
-        font-size: 92px;
+        font-size: 82px;
     }
-}
+    #about{
+        position: absolute;
+        top: 100%;
+    }
+    #title{
+        font-size: 85px;
+        top: 25%;
+        left: 52%;
+    }
+    #lg1{
+        left: 90%;
+    }
+    #quo{
+        
+        top: 70%;
+        left: 50%;
+    }
+    #box1{
+        left: 45%;
+        top: 100%;
+    }
+    a{
+        font-size: 10px;
+    }
+    }
+
